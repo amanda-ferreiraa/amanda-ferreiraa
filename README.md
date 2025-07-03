@@ -48,7 +48,7 @@ I'm always looking for **international remote opportunities** to grow my experti
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-ferreiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-ferreiraa&show_icons=true&theme=tokyonight&locale=en"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-ferreiraa&layout=compact&langs_count=8&theme=tokyonight&locale=en"/>
 </div>
 
