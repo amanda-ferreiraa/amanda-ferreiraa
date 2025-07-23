@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Amanda Ferreira
+# 👩🏻‍💻 Amanda Araujo Ferreira
 
 **`Full Stack Software Engineer | Systems Analyst | Computer Science Student`**
 
